@@ -29,6 +29,13 @@ public class Picture extends SimplePicture
   }
   
   /**
+   * 
+   */
+  public void makeCollage()
+  {
+      Picture sourcePic = new Picture(
+  }
+  /**
    * Constructor that takes a file name and creates the picture 
    * @param fileName the name of the file to create the picture from
    */
